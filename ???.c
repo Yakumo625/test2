@@ -23,6 +23,6 @@ int main ()
 		      printf("\n");
 		}
 	}
-	
+	printf("This is a test message.");
 	return 0;
 }
